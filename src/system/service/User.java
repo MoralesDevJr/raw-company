@@ -13,7 +13,7 @@ public class User {
         this.saldo = saldoInicial;
     }
 
-    public void informarSaldo(double saldo){
+    public void informarSaldo(){
         System.out.println("Saldo atual: " + saldo);
     }
 
