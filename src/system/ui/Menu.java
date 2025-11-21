@@ -1,5 +1,6 @@
 package system.ui;
 
 public class Menu {
-    int opcao;
+    int opcao, criarConta;
+    public Menu(int opcao, int criarConta) {}
 }
